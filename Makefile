@@ -1,6 +1,6 @@
 TARGET = morse
 
-OBJS = morse.o
+OBJS = morse.o morse_functions.o
 
 OPTS = -g
 
